@@ -1,0 +1,862 @@
+Que busca un proyecto Yellow Belt?
+-Aumentar alguna metrica de la organizacion.
+-Reducir desperdicios, procesos, ciclos, etc.
+
+Introduccion 2.
+Un proyecto de mejora intenta romper con un status QUO o una forma de hacer las cosas.
+
+Factores criticos a cuidar en una estrategia de cambio.
+-Tener clara la vision de a donde queremos llegar.
+-Involucrar a los stakeholders que se requiera
+-Herramientas requeridas.
+-Habilidades requeridas.
+-Mediciones y procesos requeridos.
+-Comportamiento esperado.
+
+introduccion 3.
+¿Como formalizar la solucion de problemas?
+
+¿Porque formalizarlo?
+-Maximiza el valor hacia nuestros clientes.
+
+¿Cual es el objetivo de resolver los problemas formalmente?
+-Lograr un desempeño sobresaliente.
+-resolver el problema de forma significativa.
+
+El foco:
+-Una serie de actividades que se les da una entrada y regresan una salida.
+-Nos debemos enfocar en mejorar los procesos.
+
+¿Como se va a realizar?
+Lean Six Sigma con DMAIC nos ayudara a resolver los problemas.
+Las fases de DMAIC: Son el esqueleto en el cual se van a llevar a cabo	todos los tipos de proyectos.
+Hay proyectos que no requiren alguna de las fases.
+Define:Definir el problema de una manera practica.
+Meassure: Pasar de lo practico a lo estadistico, poner con numeros lo que se esta representando.
+Analize: Intentar solucionar los errores de manera estadistica, identificar en base a estadistica basica, que esta fallando, porque, 
+areas de oportunidad, proponer.
+Improve and Control: Se pasa de una solucion basada en numeros a una solucion practica.
+
+
+
+Introduccion 4.
+
+¿Que es LEAN?
+-Serie de metodologías o herramientas para el desperdicio, es decir todo aquello que no le agregue valor al producto o servicio cuando este sea usado por nuestros clientes.
+
+Beneficios:
+-Aumenta productividad.
+-Mejora la calidad.
+-Reduce el inventario.
+-Reduce el tiempo muerto.
+-Incrementa las ventas.
+
+///////////////////////////////////////////////
+Principios de LEAN.
+
+1- Definir el valor:
+-Se parte del punto de vista del cliente.
+Se divide las actividades en 3 categorias.
+-Eliminar el desperdicio.
+-Actividades necesarias.
+-Agregan valor.
+
+2- Cadena de valor.
+Son todas aquelas actividades que se tienen que realizar par poder entregar el producto o servicio a nuestros clientes.
+
+-Identificar clara y exactamente todo lo que ocurre en la cadena de valor.
+
+3- Establacer un flujo.
+Que todos los recursos necesarios en la cadena de valor fluyan de una manera continua y con la velocidad adecuada.
+
+4- Implemnetar un pull.
+El cliente dice que hay que hacer y todo fluye con la una velocidad adecuada.
+
+5- Buscar la perfeccion.
+Siempre buscar perfeccionar cualquier proceso.
+
+¿Como cumplir estos principios de una forma simple?
+¿Como lograr que to todo lo que se requiere para entregar el resultado haya sido simplificado?
+-Todos contribuyen en la organizacion.
+
+----------------------------------------
+5 Leyes de LEAN.
+
+1- La ley del mercado.
+Es la forma de como determinar el precio de venta.
+
+2- Ley de la flexibilidad.
+Como reaccionar mas rapido a los cambios del mercado, de los clientes, tecnologias emergentes, etc.
+
+3- Focalizar los esfuerzos.
+¿Como atacar lo realmente importante?
+
+4- Ley de velocidad.
+Mientras mas simple es un proceso su velocidad es mayor.
+
+5- Ley de complejidad y costos.
+No tener procesos simples empieza a generar costos y actividades que no agregan valor.
+
+--------------------------------------------
+Lo 7 desperdicios.
+
+Transporte.
+-Mover las cosas de manera inadecuanda genera desperdicio.
+-Puede haber un desperdicio de transporte de datos.
+
+Inventario.
+-Mantener materiales que no se usan.
+-Gran cantidad de emails.
+-Datos que no se usan.
+
+Movimiento.
+-Hacer movimientos innecesarios.
+-Applicaciones con una mala UX.
+
+Espera.
+-Llamadas a aplicaciones o bases de datos que hacen esperar a nuestros clientes.
+
+Sobreproduccion.
+-Almacenar o producir cosas innecesarias.
+
+Sobreprocesamientos.
+-Actividades innecesarias, retrabajo, rediseño.
+-Si los hay debemos analizar donde se perdio la simplificacion, donde esta la complejidad y como debemos llevarla.
+
+Defectos.
+-Al tener typos, si no se entendio lo que el cliente necesitaba, una entrega inadecuada.
+-Desperdicio de los mas costosos.
+
+////////////////////////////////////////////////////////////////////////////////////////////
+
+FASE DE DEFINE.
+-Identificar al cliente.
+-Escuchar al cliente.
+-Identificar los CTQS del cliente, o que es critico para el cliente.
+-realizar un project chacter.
+-mapear como estan hoy nuestros procesos.
+-formalizar el proyecto de mejora.
+
+
+Identificacion del cliente.
+¿Quien es?
+¿Que necesidades tiene?
+¿Cuales son sus CTQs?
+
+El objetivo es enfocar todos los recursos a ese cliente.
+
+Herramientas para identificar a nuestro cliente:
+-CTQ Tree.
+-CTQ Workshop.
+-Surveys.
+-Meetings.
+-E-mails.
+
+Definir el tipo de cliente, interno o externo.
+
+(VOC) Voice Of The Customer.
+-Nuestro objetivo es el cliente, 
+tenemos que buscar alinear nuestros esfuerzos en miras de obtener el beneficio para el cliente y su aprovacion y satisfaccion.
+
+(CTQ) Critical to Quality.
+-Caracteristica de mi producto o servicio que son un requerimiento clave para nuestros clientes.
+-Preguntarle al cliente, escucharlo, que es critico en cuestiones de calidad para el cliente.
+
+Herramientas para conocer a nuestro cliente:
+-Entre mas personalizada es la herramienta para entender a nuestro cliente, mas costoso es obtener la informacion.
+
+Costoso:
+-Tiempo de nuestro equipo y el cliente para llevar a cabo las sesiones para saber que es critico para el cliente.
+
+CTQ Tree o Process Drill-Down.
+-Se utiliza para organizar de manera logica o graficamente la estructura o pasos en los que vamos identificando las necesidades de tu cliente.
+
+////////////////////////////////////////////////////////////////////////////////////////////
+DEFINE 2, PROJECT CHARTER.
+PI PROJECT DEFINITION.
+
+¿Que es un project charter?
+Un documento que provee una vista general del proyecto y sirve como un acuerdo entre la administracion 
+y el equipo de mejora de procesos respecto al resultado final esperado del proyecto.
+
+
+Proposito:
+-Listar las razones adyacentes a las necesidades del proyecto a travez de las caracteristicas basicas de el producto o servicio que es creado o mejorado.
+-Incluir una detallada explicacion de los procesos a travez de los cuales el nuevo producto o servicio ayudara a reunir las metas y obtencion de beneficios.
+
+Herraminetas:
+-Cost - Benefit Analisis.
+- CTQ tree.
+
+
+3 primeros pasos.
+
+Project identification:
+- Identificar a nuestro cliente.
+- Que neceista el cliente.
+- El problema de su proceso o negocio.
+- Alinearme a lo que el cliente necesita.
+
+¿Donde me puedo basar para tener esos proyectos?
+Fuentes externas:
+-Voice of customer.
+-Voice of market.
+-Comparasion/compertidores.
+
+Interna y externa.
+-Nuevos productos.
+-Tendencias o practica.
+-Servicios.
+-Ubicaciones.
+-Barreras tecnologicas.
+
+Fuentes Internas.
+-Frustracion.
+-Problemas.
+-Retraso.
+-Retrabajo.
+-Oportunidades de mejora.
+
+¿Como seleccionar los proyectos correctos?
+-Elegir proyectos bien delimitados, su problema y su objetivo.
+-Descalificar proyectos ambiguos.
+-Ser claro en el limite y la meta del proyecto.
+-Alineado alas estrategias del negocio.
+-Debe ser considerado por el cliente.
+
+Project Selection:
+-Priorizar y seleccionar los proyectos de mejora.
+-La priorizacion se basa en las metas del cliente.
+
+Project Definition:
+-Un contrato donde quede muy en claro al cliente donde estoy parado y a donde quiero llegar con mi proyecto de mejora.
+-Un contrato es un documento que permita tener comunicacion de consultor con el cliente
+-Cuales son los beneficios del proyecto de mejora.
+
+////////////////////////////////////////////////////////////////////////////////////////////
+DEFINE 3, BENEFICIOS DE UN PROJECT CHARTER.
+
+Pueden ser beneficios cuantitativos o cualitativos, incluso ambos y se expresan en dolares.
+
+¿Que beneficios se le entregaran a mi cliente despues de este proyecto?
+
+Los proyectos de mejora deben estar enfocados a mejorar el rendimiento financiero de una prganizacion ya sea con soft o hard dollards.
+
+Project charter 
+Bussiness case: Se describe de manera general de que trata el proyecto.
+
+Problem stament: 
+Se describe de manera clara, precisa y breve el problema.
+
+Goal statement:
+Se describe el objetivo a lograr con el proyecto de mejora y una fecha estimada de finalización.
+
+Project scope:
+Se pone el nombre de las aplicaciones que estan en el alcance del proyecto y lo que se va a excluir.
+
+Defect definition:
+Se describe lo que se considera un defecto.
+
+Beneficios:
+Aqui se describen los beneficios estimados anualmente.
+
+
+COSTO ANALISIS DE BENEFICIOS.
+
+Tipos de beneficios financieros identificados en softtek.
+
+HARD DOLLARS.
+-Es dinero que se ve reflejado en una factura.
+
+SOFT DOLLARS.
+
+Categorias.
+
+-Productividad.
+Ir mas alla de lo que me esta solicitando el cliente.
+-Eficiencia.
+Reduccion o decremento del tiempo de un proceso.
+-Innovacion
+Proyectos que buscan automatizar o implementar soluciones.
+
+
+¿Como hacer un calculo de beneficios?
+1. Calcular el esfuerzo o gasto actual en el proceso, producto o servicio involucrado.
+2. Calcular el pronostico de mejora al terminar el proyecto. 
+3. Considerar variables entre antes y despues del proyecto.
+-cuantas personas se veran beneficiadas. 
+-Numero de veces que se genera esa actividad al día, semana mes y año.
+-Rate por hora.
+4. Calcular ganancias anuales o beneficios.
+5. Verificar con tu champion o leader.
+
+////////////////////////////////////////////////////////////////////////////////////////////
+DEFINE 4. MAPEO DE PROCESOS.
+
+Identificar que proceso se va a mejorar y mapearlo con la herramienta de calidad mas adecuada.
+
+El proposito es:
+Identificar el proceso, los limites del proceso, expresarlo de manera grafica de alto nivel o detallada como
+es hoy el proceso.
+
+Herramientas para mapeo de procesos.
+
+SIPOC:
+-Es una vision de alto nivel de como esta el proceso que estoy corriendo actualemente con mi cliente o negocio.
+-Es una herramienta para personas ajenas al proyecto.
+
+¿Como crear un SIPOC?
+1. -Identificar el alcance que se tienen en mi proyecto.
+2. -Identificar los insumos de mi proverdor y los productos o servicios que recibe mi cliente.
+3. -Identificar el proceso con no mas de 5 pasos explicandolo.
+
+CROSS FUNCTIONAL MAP.
+-Permitan tener en detalle la secuencia de eventos e identificar la interaccion que hay 
+entre diferentes areas y roles funcionales.
+
+¿Como crearlo?
+1. Es mas valiosa la informacion si se reune el equipo de trabajo para entender el proceso.
+2. Delimitar los limites.
+3. Identificar las salidas y entradas claves del proceso.
+4. Identificar las areas e interacciones entre las distintas areas y roles del negocio.
+5. Definir los stakeholder o involucrados/beneficiados en el proceso.
+6. Definir el nivel de detalle del CFM.
+7. Lluvia de ideas de los pasos que se llevan en el proceso.
+8. Ordernar los pasos y ver como se van conecetando.
+9. Verificar los pasos o interacciones.
+10. Simular o seguir el flujo.
+
+
+VALUE STREAM MAP.
+-Ayuda a mostrar todas las actividades que agregan valor, no agregan valor 
+y no agregan valor pero son necesarias a los ojos del cliente.
+
+¿Como crear un VSM?
+1. Identificar todos los pasos necesarios para generar un producto o servicio, desde su inicio hasta su fin.
+2. Poner cada paso de forma independiente.
+3. Evaluar cada paso para ver su categoria de valor e identificar el tiempo en realizarla.
+
+//////////////////////////////////////////////
+DEFINE 5 FORMALIZING A PI PROJECT
+
+Objetico:
+-Identificar los stakeholders involucrados durante el desarrollo del proyecto de mejora.
+-Identificar las actividades a realizar de inicio a fin.
+
+1. Definir un equipo.
+
+Roles de un equipo:
+1. Champion of champions.
+2. Champion.
+3. PI Project leader (Green belt o Yellow belt).
+4. Stakeholders.
+5. Team members.
+6. Black belt.
+
+
+2. Project Plan.
+- ¿Cuales son las fases por las que voy a pasar?
+- ¿En que tiempo voy a pasar esas fases?
+- Actividades necesarias para llevar al exito el proyecto y en tiempo.
+
+3. junta de Kick off.
+- Se va a dar a conocer las metas, problematica y expectativas del equipo.
+
+
+
+/////////////////////////////////
+MEASURE.
+
+Objetivos:
+- Identificar cual es la "y" del projecto de mejora y x`s potenciales.
+- Planear la recoleccion de datos de una manera estructurada.
+- Usar sistema de medicion validos para asegurar la consistencia de las mediciones.
+- Determinar en donde estamos.
+    -Saber cual es el desempeño inicial de la Y del proyecto y la capacidad actual de nuestro proceso
+    en terminos de sigmas y DMPOS.
+- Determinar el desempeño que deseamos alcanzar.
+
+- Conocer el proceso de manera numerica y estadistica para facilitar la futura toma de decisiones.
+
+- Se hace la definicion de un problema practico a uno estadistico.
+
+////////////////////////////////////////////
+MEASURE 2.
+
+Measure basis.
+
+Pensamiento estadistico:
+Es una filosofia de aprendizaje y accion basada en los sig. principios.
+1. Todo trabajo se lleva a cabo en un sistema de procesos interconectados.
+2. En todos los procesos existe una variacion.
+3. Entender y reducir dicha variacion en los procesos es la clave del exito para cumplir con las 
+expectativas de los clientes.
+
+-Un buen proceso debe tener poca variacion o dispersion y extar centrado a los objetivos del cliente.
+-Cuando se analiza un proceso es importante saber que problema estadistico se tiene, si es un problema
+de centrado, dispersion o ambos.
+
+La premisa basica de six Sigma es que la variacion en los procesos puede ser identificada, cuantificada 
+y eliminada o cambiada.
+
+-La identificacion de las fuentes de variacion debe enfocarce principalmente en los procesos estrategicos centrales.
+
+Importancia de entender la variacion.
+- Conocer el Comportamiento del proceso y desempeño.
+- Identificar y entender las causas de variación.
+- Saber como los datos cambian a travez del tiempo.
+- Saber la distribución de los datos.
+- Hacer predicciones sobre el desempeño del proceso.
+- Identificar posibles estratificaciones para un mejor analizis.
+
+Consecuencias de no entender las variaciones de los procesos.
+- Ver tendencias donde no las hay.
+- Reprochar o dar credito a otros por cosas que no tienen control.
+- Construir barreras y disminuir el optimismo.
+- Nunca poder comprender el desempeño pasado, hacer prediciones o hacer mejoras significantes.
+
+La "Y" del proyecto es un indicador clave para el proyecto de mejora y es definido por el cliente.
+- Nos permite entender y evaluar el proceso desde la perspectiva del cliente.
+- Cualquier cambio en la "Y" del proyecto predice cambios en el grado en el que el proceso cumple con los CTQ's
+cliente.
+- En base en los valores de la "Y" sabremos si los entregables cumplen o no con lo 
+que el cliente nos esta solicitando.
+
+-Para determinar correctamente la "Y" del proyecto es importante traducir las necesidades 
+especificas del cliente en CTQ's o requerimientos indispensables.
+
+Pasos:
+1. Definimos las caracteristicas del proceso, produtco o servicio que sera considerado como la salida a mejorar.
+2. Se define detalladamente lo que se va a medir.
+3. Se define su target/objetivo o valor ideal, asi como sus limites de especificacion o valores maximos 
+o minimos permitidos.
+4. Despues de definido lo anterior podemos definir el defecto o cuando no se cumplen las especificaciones.
+
+Definicion formal de estandares de desempeño.
+-Unidad.
+-Defecto.
+-Oportunidad.
+-Unidad de medicion.
+-Definicion operacional.
+-Tipos de datos.
+-USL.
+-Target.
+-LSL.
+
+Conceptos basicos de estadistica.
+-Series de datos o hechos.
+-Un conjunto de reglas para organizar, analizar, interpretar y presentar observaciones de poblaciones
+o muestras.
+
+Tipos de estadistica:
+-Descriptiva:
+    Proceso de recoleccion, organizacion y presentacion de datos.
+    Describe datos.
+-Inferencial:
+    Generalizar a partir de una muestra para hacer estimaciones acerca de una población mas amplia.
+    Se obtiene conclusiones sobre una poblacion basada en una muestra.
+
+Poblacion: Conjunto total de elementos, unidades, mediciones, que estan bajo consideración.
+Muestra: Subconjunto o grupo de unidades tomadas de una población.
+Elemento o unidad: Unico item que es seleccionado de una muestra o población y se mide de alguna manera.
+
+Parametro: 
+Valor verdadero numerico de la población, a menudo es un valor desconocido y estimado por un estadistico.
+Describe a la poblacion.
+
+Estadistico:
+Es un valor numerico, tomado de una muestra que se puede usar para hacer una inferencia sobre una población.
+Describe a la muestra.
+
+¿Para que generar estadisticos?
+-Dar respuesta a preguntas como las siguientes.
+
+¿El proceso esta liverando entregables conforme al objetivo?
+¿Que es la taza de defectos generada por el proceso?
+¿Cada cuando el proceso entrega dentro de los limites dentro de las especificaciones de los limites?
+¿La variación del proceso ha cambiado a lo largo del tiemp?
+¿Ha cambiado el desempeño del proceso a lo largo del tiempo?
+
+
+Tipo de datos:
+Nos dicta que herramientas podemos usar para su analisis.
+
+Cuantitativa:
+-Continuos:
+ -Dinero, tiempo, longitud, peso.
+ -Expresados por valores numericos reales.
+ -Contienen mas informacion sobre el proceso que los discretos.
+
+-Discretos:
+ -Bueno o malo.
+ -Pasa o falla.
+
+Los datos pueden ser convertidos de continuos a discretos y viceversa.
+
+//////////////////////////////////////
+MEASURE 3. 
+
+Estadistica descriptiva.
+
+Metricas o medidas:
+
+Metricas de tendencia central.
+-Indican el centro de los datos.
+    -moda.
+        -los valores mas repetidos en un conjunto de datos.
+    -promedio.
+        -se ve influenciado por datos extremos.
+    -mediana.   
+        -el dato o los 2 datos en medios de un conjunto de datos.
+
+Metricas de dispercion.
+-Indican la variabilidad de los datos y cuanto se alejan del centro de la distribucion.
+    -rango.
+        -es la diferencia entre el valor mayor y menor de un conjunto de datos.
+    -varianza.
+        -permite identificar la diferencia entre cada uno de los valores respecto a su punto central o media.
+    -desviacion estandar.
+        -indica la dispercion de un conjunto de datos sobre la media.
+
+Metricas de posicion.
+-Dividen un conjunto de datos ordenados ascendentemente en grupos del mismo tamaño.
+    -percentiles.
+    -cuartiles.
+
+
+ejercicio calcular varianza y variacion estandar:
+
+datos:
+no.     edad.
+1.       18
+2.       17
+3.       21
+4.       19
+5.       20
+6.       19
+
+paso 1: calcular el promedio
+114 / 6 = 19
+
+paso 2: calcular la diferencia entre cada elemento y el promedio.
+no.     edad.   promedio.   diferencia.
+1.       18     19.         1
+2.       17                 2
+3.       21                 -2
+4.       19                 0
+5.       20                 -1
+6.       19                 0
+
+para saber si lo hicimos bien debemos sumar las diferencias y nos debe dar 0.
+
+paso 3: elevar las diferencias al cuadrado.
+diferencia.     diferencia al cuadrado.
+1               1
+2               4
+-2              4
+0               0   
+-1              1
+0               0
+
+paso 4: sumar la dif. al cuadrado
+1 + 4 + 4 + 1 = 10
+
+paso 5:
+dividir el resultado anterior entre el numero de la muestra - 1.
+ 10 / 6 - 1 = 2
+
+ desviacion standar: raiz cuadrada de la varianza
+
+ 2^2 = 1.414
+
+
+3
+
+1   2   4
+2   1   1
+3   0   0
+4   -1  1
+5   -2  4
+
+10
+
+varianza 2.5
+desviacion estandar 1.58
+
+
+///////////////////////////////////////////
+MEASURE 4.
+
+ULTIMO PASO EN LA FASE MEASURE.
+
+La capacidad del proceso es la metrica asociada al desempeño de un proceso.
+La habilidad natural que tiene un proceso para satisfacer las expectativas o CTQs del cliente.
+Se expresa como un valor sigma.
+
+3 calculos de la capacidad del proceso son hechos durante el proyecto de mejora de procesos.
+initial o baseline:
+    -Sirve para saber como se encuentra el proceso o de donde partimos.
+objetive:
+    -Nos sirve para saber a donde queremos llegar.
+final:
+    -Se hace al final de proyecto de mejora para saber cuanto ha mejorado el proceso.
+
+Six sigma metrics:
+Defective: Una unidad que contiene 1 o mas defectos.
+Oportunidad: Numero de posibilidades que una unidad tiene de no cumplir con los req. del cliente.
+DPMO: Defectos por millon de oportunidades.
+Y: salida del proyecto, es definida por el cliente. 
+Sigma level o Z level:
+    -Es un estandar comun de medicion usado para reportar la capacidad de un proceso.
+    -Mide el numero de mediciones estandar que pueden existir entre el objetivo y los limites de especificacion.
+Sigma.lt o Z.lt:
+    -Es una medicion de la capacidad del proceso a largo plazo y describe la reproducibilidad 
+    sostenida de un proceso.
+Sigma.st:
+    -Medicion de la capacidad de un proceso a corto plazo, describe la instantanea capacidad de un proceso.
+
+
+Los procesos tienden a exhibir mas variacion en el largo plazo que en el corto.
+
+Metricas sig sigma relacionadas con el calculo de la capacidad del proceso.
+
+DPU: Defectos por unidad.
+    -Representa el promedio de defectos por unidad.
+    -DPU = defectos / total de unidades muestreadas.
+TOP: Total de numero de oportunidades.
+    -Numero total de oportunidades de fallo. 
+    -En cada caracteristica critica de la unidad se tiene una unidad de defecto.
+    -Cada oportunida es independiente y medible.
+    -TOP = oportunidades * unidades muestreadas.
+    ejemplo:
+        -tiempo de entrega.
+        -calidad.
+        -producto correcto.
+    cada una representa una oportunidad de fallo.
+DPO: defectos por oportunidad.
+    -Calcula la probabilidad de unidades libres de defectos producidas por el proceso.
+    -DPO = defectos / TOP
+DPMO: Defectos por millon de oportunidades.
+    -Es una medida de la cantidad de errores que se producen en un proceso.
+    -DPMO = DPO * 1,000,000
+
+De acuerdo a los tipos de datos que decidimos usar (continuos o discretos), debemos usar distintas herramientas
+para conocer la capacidad del proceso.
+
+Discretos:
+    1. Conocer el proceso de manera grafica y cuantitativa por medio de la estadistica descriptiva.
+    2. Calcular las metricas de capacidad por medio de las hojas de trabajo L1.
+
+Continuos:
+Nos permiten tener mayor informacion para el analisis.
+    1. Conocer el proceso de manera grafica y cuantitativa por medio de la estadistica descriptiva.
+    2. Aplicar pruebas de normalidad y estabilidad del proceso.
+
+Calcular la capacidad del proceso con datos discretos.
+    1. Conocer el proceso en terminos estadisticos y graficos.
+    -Se puede obtener informacion sobre.
+        -Porcentaje de defectos que se estan generando.
+        -Como estan distribuidos los def.
+        -El proceso esta en control.
+    Herramientas de utilidad.
+        -Graficas, de barras, pie y control
+
+Objetivo de calcular la capacidad objetiva del proceso.
+    -Determinar el nivel de desempeño del proceso que deseamos alcanzar, para cumplir las expectativas y 
+    requerimientos del cliente.
+    -Define la meta a lograr.
+
+    Se expresa en Z.lt, Z.st, DPMOS, "Y".
+    Se busca lograr cambios significativos en el nivel de desempeño del proceso.
+
+
+Como determinar una meta agresiva?
+    Por demanda: el cliente es quien define la meta a alcanzar.
+    Por benchmarking: comparandonos con nuestra competencia.
+    Sentido comun: Si se observa un proceso con nivel sigma menor a 3.
+
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+ANALIZE.
+
+Objetivos de esta fase.
+-Identificar los puntos criticos de variacion.
+-Identificar cuellos de botella.
+-Causas raiz del problema.
+
+Porposito de analize.
+-Identificar las causas mas importantes del problema definido en define.
+
+Analisis numerico:
+-grafica de barras.
+    Ayuda a identificar cuales de las posibles causas de un problema es la mas importante.
+-histograma.
+    -Ayuda a identificar cual es la frecuencia absoluta variable numerica 
+    y a entender grandes cantidades de datos.
+    -que tan lejos estas de tu objetivo.
+-Diagrama de pareto.
+    -El 80% de nuestros problemas o resultados se debe al 20% de las causas.
+-pie chart.
+    -representa el tamaño de una rebanada como la frecuencia 
+    relativa con en la cual se presenta una cierta relacion.
+-box plot.
+    -Ver como estan distribuidos los datos.
+    -Donde hay mayor concentracion de datos.
+
+
+No numericas.
+-lluvia de ideas.
+    -Recopilar informacion desde el punto de vista de todas las personas involucradas.
+-Diagrama de afinidades.
+    -ayuda a clasificar ideas y sintetizar.
+-diagrama de causa y efecto.
+    -ayuda a identificar causas raiz.
+-matriz de impacto.
+    -ayuda a identificar que tanto control tenemos sobre una variable.
+-matriz de causa y efecto.
+    -ayuda a relacionar cuales causas que mas fuertemente tienen un impacto en la situacion problematica.
+
+
+Herramientas de calidad para el analisis de desperdicio. (relacionado con el tiempo)
+-value stream map.
+    -describe los roles de diferentes departamentos involucrados en el proceso y los pasos relacionados
+    a ellos.
+-cross functional map.
+    -usado para entender el flujo de materiales e informacion a travez de la cadena de valor para
+    producir un producto o servicio a un cliente. Es comunmente usado para identificar oportunidades de mejora
+    en tiempo de espera.
+-diagrama de spagueti.
+    -podemos ver todas las relaciones que existen entre diferentes entidades del 
+    desarrollo de un proceso y podemos 
+    analizar si todas las relaciones que se dan de transferencia 
+    de informacion o materiales son necesarias o no.
+-handoff diagram.
+    -podemos ver cuantas transferencias de informacion u objetos hay en el desarrollo de un proceso.
+    -reducir al minimo estas transferencias.
+-takt time.
+    -El tiempo al cual deberias estar trabajando para cubrir las necesidades de tu cliente.
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+IMPROVE
+
+Aqui se materializaran las mejoras con las que estaremos mejorando nuestro proceso, haciendolo más 
+predecible y con menos variabilidad.
+
+Objetivos.
+-Ver que nuestras mejoras son las adecuadas.
+-Verifcar que estas mejoras ataquen las causas raiz.
+-Ver los riesgos asociados a las mejoras.
+-Enfocarnos en soluciones que ataquen a la causa raiz.
+-¿como me aseguro que el plan de implementacion este libre de fallas?
+
+Definiendo las mejoras.
+-Definir las herramientas de calidad provadas que nos pueden ayudar en esta tarea.
+
+herramientas indispensables.
+-Brainstorming:
+    -El foco de esta herramienta es como solucionar las causas raiz del proceso.
+-mapa de procesos || process map:
+    -plasmar como queremos que sean las cosas.
+    -proceso ideal que nos ayuda a eliminar el retrabajo.
+    -¿como queremos que nuestro proceso luzca?
+    herramientas del mapa de procesos.
+        -SIPOC.
+        -Cross functional map.
+        -value stream map.
+-filosofia de las 5's.
+    -sort:
+        clasificar lo que vamos a utilizar de lo que no es necesario.
+    -set in order.
+        de lo que ocupamos en nuestro día a día, vamos a comodar y hacer muy agil su identificacion, busqueda,
+        utilizacion.
+    -shine.
+        -asegurarnos de mantener el orden y clasificacion previa.
+        -mantener esa limpieza y orden.
+    -estandarizar.
+        -llevar esas mejores practicas hacia un estandar y que el equipo las comience a utilizar.
+        -que todo se vuelva un habito dentro de nuestros procesos.
+    -sustain:
+        -ver como seguir mejorando.
+        -ver que lo ya hecho se mantenga.
+
+poka yoke:
+    -todos aquellos mecanismos que permiten que un proceso sea a prueba de errores.
+    -evitan el error antes de que ocurra.
+
+    estados de un poka yoke:
+        -prevencion - defectos que estan a punto de ocurrir.
+        -deteccion - defectos que ya han ocurrido.
+
+    funciones de un poka toke:
+        -shutdown - para cuando el defecto es predecido o detectado.
+        -control - evitar que continue el proceso.
+        -adverencia - señales que el defecto es predecido o detectado.
+
+visual management:
+    -todo aquello que de manera visual nos ayuda a tener un mayor control, estabilidad en el proceso.
+
+///////////////////////////////
+evaluacion de mejoras.
+    -evauluar las mejoras que identificamos anteriormente ya que no todas pueden tener el impacto esperado.
+
+diagrama de causa y efecto.
+    -nos enfocaremos en ver cuales de las mejoras tienen mayor impacto en las causas raiz.
+
+
+//////////////////////////////
+identificar y evaluar riesgos.
+    -buscar que la implementacion de las ideas sea lo mas segura posible y a prueba de fallas.
+
+FEMA:
+    -nos permite identificar los modos de falla y cual es el efecto que tiene este modo de falla dentro del proceso.
+
+1- identificar los pasos criticos de proceso, ¿donde puede llegar a fallar?
+2- describir los inputs criticos del proceso, de donde viene el insumo critico para que el proceso no falle.
+3- determinar de que forma el proceso puede salir mal, de control o la expectativa.
+4- cual es el efecto de que esa situacion no salga con lo que esta planeado, efecto negativo hacia el cliente 
+    o control si el proceso llega a salir mal.
+5- identificar la causa raiz de que eso salga mal.
+6- buscar que controles tenemos que nos permiten identificar ese tipo de situaciones.
+7- calcular el nivel de prioridad del riesgo.
+    
+
+
+/////////////////////////////////////////////////////
+CONTROL PHASE
+
+objetivos:
+-calcular la capacidad final del proceso.
+-confirmar el efecto de las mejoras implementadas en el nuevo proceso.
+-importancia de establecer un buen plan de control.
+-calcular los beneficios finales de las mejoras en el proceso.
+-formalizar el cierre del proyecto.
+
+
+Confirmando las mejoras:
+-aprenderas a calcular la capacidad final del proceso.
+-evaluar y confirmar con herramientas graficas que las mejoras estan trabajando como se esperaban despues
+de la implemenetacion de las mejoras en el proceso.
+
+Confirmacion de las mejoras.
+1-calcular la capacidad del proceso actual y compararlo con la inicial y con el objetivo o meta establecido.
+
+herramientas a utilizar en esta fase.
+-L1 worksheet.
+-Control chart.
+-Box plot.
+-Pie chart.
+-Histograma.
+-Bar chart.
+
+Para calcular la capacidad del proceso.
+1- identificar el tipo de dato que tenemos.
+2- calcular la estadistica descriptiva.
