@@ -1,0 +1,95 @@
+Received: from BN7PR02MB5266.namprd02.prod.outlook.com (2603:10b6:408:31::21)
+ by BY5PR02MB6180.namprd02.prod.outlook.com with HTTPS; Tue, 6 Sep 2022
+ 22:10:46 +0000
+Received: from BN0PR04CA0015.namprd04.prod.outlook.com (2603:10b6:408:ee::20)
+ by BN7PR02MB5266.namprd02.prod.outlook.com (2603:10b6:408:31::21) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5588.17; Tue, 6 Sep
+ 2022 22:10:44 +0000
+Received: from BN8NAM04FT026.eop-NAM04.prod.protection.outlook.com
+ (2603:10b6:408:ee:cafe::59) by BN0PR04CA0015.outlook.office365.com
+ (2603:10b6:408:ee::20) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5588.10 via Frontend
+ Transport; Tue, 6 Sep 2022 22:10:44 +0000
+Received: from hybrid.softtek.com (200.33.249.205) by
+ BN8NAM04FT026.mail.protection.outlook.com (10.13.160.108) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.20.5588.10 via Frontend Transport; Tue, 6 Sep 2022 22:10:43 +0000
+Received: from softtek.com (10.0.20.11) by stkss4.softtek.com (172.16.210.6)
+ with Microsoft SMTP Server id 15.1.2375.28; Tue, 6 Sep 2022 17:10:24 -0500
+From: Softtek Notifications <basis@softtek.com>
+To: Julio Cesar Sepulveda Godinez <julio.sepulveda@softtek.com>
+Subject: La cuenta para ( EMLL1 ) ha sido activada
+Thread-Topic: La cuenta para ( EMLL1 ) ha sido activada
+Thread-Index: AQHYwj2D2B+zroagZUuzoZ0IJAUCdA==
+Date: Tue, 6 Sep 2022 22:05:32 +0000
+Message-ID: <ADR47000000494133400000D3A143C4C1EDD8BC615D5FEDDE118@softtek.com>
+Content-Language: es-MX
+X-MS-Exchange-Organization-AuthMechanism: 10
+X-MS-Exchange-Organization-AuthSource: MTYPITAP231031.softtek.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ 0ac7f7d3-6b3a-4573-b8e0-08da9054a498
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+received-spf: Pass (protection.outlook.com: domain of softtek.com designates
+ 200.33.249.205 as permitted sender) receiver=protection.outlook.com;
+ client-ip=200.33.249.205; helo=hybrid.softtek.com; pr=C
+x-ms-exchange-organization-originalclientipaddress: 10.0.20.11
+x-ms-exchange-organization-originalserveripaddress: 10.13.160.108
+x-ms-publictraffictype: Email
+authentication-results: spf=pass (sender IP is 200.33.249.205)
+ smtp.mailfrom=softtek.com; dkim=none (message not signed)
+ header.d=none;dmarc=pass action=none header.from=softtek.com;
+x-ms-office365-filtering-correlation-id: 0ac7f7d3-6b3a-4573-b8e0-08da9054a498
+x-ms-traffictypediagnostic: BN7PR02MB5266:EE_
+x-forefront-antispam-report:
+ CIP:200.33.249.205;CTRY:MX;LANG:es;SCL:-1;SRV:;IPV:NLI;SFV:SKI;H:hybrid.softtek.com;PTR:mail.softtek.com;CAT:NONE;SFS:;DIR:INB;
+x-microsoft-antispam: BCL:0;
+x-ms-exchange-crosstenant-originalarrivaltime: 06 Sep 2022 22:10:43.8221 (UTC)
+x-ms-exchange-crosstenant-fromentityheader: HybridOnPrem
+x-ms-exchange-crosstenant-id: 864ee999-c538-44a0-bddd-0449de62df6d
+x-ms-exchange-crosstenant-network-message-id:
+ 0ac7f7d3-6b3a-4573-b8e0-08da9054a498
+x-ms-exchange-transport-crosstenantheadersstamped: BN7PR02MB5266
+x-originatororg: onesofttek.onmicrosoft.com
+x-ms-exchange-transport-endtoendlatency: 00:00:03.1242543
+x-eopattributedmessage: 0
+x-ms-exchange-processed-by-bccfoldering: 15.20.5612.012
+x-ms-exchange-crosstenant-originalattributedtenantconnectingip:
+ TenantId=864ee999-c538-44a0-bddd-0449de62df6d;Ip=[200.33.249.205];Helo=[hybrid.softtek.com]
+x-mailer: SAP NetWeaver 750
+x-organizationheaderspreserved: MTYPITAP231031.softtek.com
+x-ms-exchange-crosstenant-authas: Internal
+x-ms-exchange-crosstenant-authsource: MTYPITAP231031.softtek.com
+x-crosspremisesheaderspromoted:
+ BN8NAM04FT026.eop-NAM04.prod.protection.outlook.com
+x-crosspremisesheadersfiltered:
+ BN8NAM04FT026.eop-NAM04.prod.protection.outlook.com
+X-Microsoft-Antispam-Mailbox-Delivery:
+ ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(425001)(930097);
+X-Microsoft-Antispam-Message-Info:
+ RT06XjoPV0t/SMLnWU58GXl3EMmabgl6379MpXfdY48yXjkYKPTwBImRKncn1bonu2BaxDsyUsYPZlbWEEGl3FGyTI6Zs2z1OfxF/nRcwowFeVkoG1i7QqIgfaSDClEMMqpis6sXZg0cB4DEZd+d5U56eot9ktGfRBfnTz0Rut3frmVSyHq92omAt7Nj7k/jghzd9H7PyirB+DoSEGxYy+ONGqSAnwPdI6dG5utQZkMo1oQElvEJjoiV1GLvGh/IR6+7WrzM+t57i7bk4n6IQdZFl5XClWJ8/8FAWR8/Yn3ewIZPq4Z5sG9VOYcvREqsn1dwqPE2OA12YSpwXmwXWhXlUlQpsA0/AK3VMuWm6vRcA852E1flrAVNgKlghBggFzrqQyizm/BQ77AIUir1c5d57C4OLZF75kocs8gArdLCMZh3lUcDrHvRYpBB03IiGdBcmpip5dLhku+wRnQFRzaAIghCQ9M3q1DYTGo/9euIA7E29ZuKA0RSuYhvGIUB2wi6+ckrCJsmMoyfrWD1G/I70dZEY71f0B+w59Tc4zZL8kjwxPbAE7tBnXsJSqS6PX89lVAMIHGjVw2O1BZ31qk8mMMoovdSyt7D/2NS2CfDYfyXw0mPEXsRAqb93NfMGIBsOSRv/qDLewRaGPjTrn2T0qdskeySxhQXPpvoofoc+aAGh/fcCBWY+4/j23amHzCMwe1sRbNSl+OUNVRgRw27fTpEMaXl7OTcwpQVII9yby5XKbUEjgHoDfAXWHZlXJlmZ5cdtU4hU/3aWCuI/w==
+Content-Type: text/plain; charset="utf-8"
+Content-ID: <C28A304338668A4EAE00A3736BD60E09@namprd02.prod.outlook.com>
+Content-Transfer-Encoding: base64
+Importance: high
+X-Priority: 1
+MIME-Version: 1.0
+
+TnVtZXJvIFBlcnNvbmE6IDcwMDEzNjY5DQpJUzogRU1MTDENCk5vbWJyZTogRW1tYW51ZWwgTWF4
+aW1pbm8NCkFwZWxsaWRvOiBMw7NwZXogTGljZWENClVuaWRhZCBPcmdhbml6YWNpb25hbDogQU1T
+IE1BSU5URU5BTkNFDQpGb3JtYSBkZSBDb21wZW5zYWNpb246IE5vbWluYSBCRlMgMjAxDQpQYWlz
+OiBNRVhJQ08NCkVzdGFkbzogR3VhZGFsYWphcmENCkVtYWlsOiBlbW1hbnVlbG0ubG9wZXpAc29m
+dHRlay5jb20NCg0KLyoqKiBEYXRvcyBwYXJhIGFjY2VzbyBhIENvcnJlbyBFbGVjdHLDs25pY28g
+eSBSZWQgZGUgU29mdHRlayAqKiovDQpVc2VyOiBlbW1hbnVlbG0ubG9wZXoNClBhc3N3b3JkOiB2
+SlZbcXdOOA0KV2VibWFpbDogaHR0cHM6Ly9tYWlsLnNvZnR0ZWsuY29tL293YQ0KDQpTaSBkZXNl
+YXMgY2FtYmlhciB0dSBjb250cmFzZcOxYSBkZSBSZWQgU29mdHRlayBpbmdyZXNhIGENCmh0dHBz
+Oi8vcmVjb3Zlcnkuc29mdHRlay5jb20NCg0KQ29uIHR1IGN1ZW50YSBkZSBSZWQgU29mdHRlayBw
+b2Ryw6FzIGVudHJhciBhIGRpZmVyZW50ZXMgYXBsaWNhY2lvbmVzIGludGVybmFzLCBzb2xvIHJl
+Y3VlcmRhIHF1ZQ0KcGFyYSBodHRwczovL3BvcnRhbC5zb2Z0dGVrLmNvbSBkZWJlcyB1dGlsaXph
+ciB0dSBJUyBjb21vIFVzZXJuYW1lIHkgbGEgY29udHJhc2XDsWEgZGUgdHUgY3VlbnRhIGRlDQpS
+ZWQgU29mdHRlayAoZWwgcXVlIHNlIGVzcGVjaWZpY2EgYXJyaWJhKQ0KDQpQb3IgY3Vlc3Rpb25l
+cyBkZSBzZWd1cmlkYWQsIGVzIHJlc3BvbnNhYmlsaWRhZCBkZSBjYWRhIHBlcnNvbmEgZWwgbWFu
+ZWpvIGFkZWN1YWRvIGRlIHN1cw0KY3VlbnRhcyB5IGRlIHN1cyBjb250cmFzZcOxYXMNCg0KRXN0
+ZSBjb3JyZW8gZXMgaW5mb3JtYXRpdm8gZmF2b3IgZGUgbm8gY29udGVzdGFyDQoNCg==
